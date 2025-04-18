@@ -5,3 +5,4 @@ A [D++](https://github.com/brainboxdotcc/DPP) Discord Bot template for Visual St
 This template comes packaged with the latest master branch of D++ from the CI. To use this project simply put your code into the `MyBot.cpp` and press F7. You can do much more with this template.
 
 For support and assistance please join [the official support discord](https://discord.gg/dpp).
+"# DanteDiscordBot" 
